@@ -4,5 +4,5 @@ firstName: Joseph
 lastName: Caccia
 email: joseph.caccia@ppsd.org
 department: History
-is_leader: true
+isLeader: true
 ---

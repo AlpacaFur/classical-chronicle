@@ -4,5 +4,5 @@ firstName: Ellen
 lastName: Anderson
 email: ellen.anderson@ppsd.org
 department: English
-is_leader: true
+isLeader: true
 ---

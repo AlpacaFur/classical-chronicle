@@ -4,5 +4,5 @@ firstName: Lesley
 lastName: Shapiro
 email: lesley.shapiro@ppsd.org
 department: Science
-is_leader: false
+isLeader: false
 ---

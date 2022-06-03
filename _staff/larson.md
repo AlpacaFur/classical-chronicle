@@ -4,6 +4,6 @@ firstName: Sarah
 lastName: Larson
 email: sarah.larson@ppsd.org
 department: Other
-is_leader: false
+isLeader: false
 location: Nurse
 ---

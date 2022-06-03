@@ -4,5 +4,5 @@ firstName: Ana
 lastName: Mendiburu
 email: ana.mendiburu@ppsd.org
 department: Language
-is_leader: false
+isLeader: false
 ---

@@ -4,5 +4,5 @@ firstName: Charlene
 lastName: Rocchio
 email: charlene.rocchio@ppsd.org
 department: Math
-is_leader: false
+isLeader: false
 ---

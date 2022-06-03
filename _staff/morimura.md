@@ -4,5 +4,5 @@ firstName: Mikiko
 lastName: Morimura
 email: mikiko.morimura@ppsd.org
 department: Language
-is_leader: false
+isLeader: false
 ---

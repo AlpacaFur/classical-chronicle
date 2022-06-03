@@ -43,7 +43,7 @@
           {% assign members = site.staff | where: "department", department | sort: 'lastName' %}
           {% for member in members %}
             {% if member.unlisted %}{% continue %}{% endif %}
-            <div class="member{% if member.is_leader %} dep-head {% endif %}">
+            <div class="member{% if member.isLeader %} dep-head{% endif %}">
               <a class="name" href="/school-staff/{{member.slug}}">{{member.lastName}}, {{member.firstName}}</a>
               <a class="email" href="mailto:{{member.email}}">{{member.email}}</a>
             </div>

@@ -4,6 +4,6 @@ firstName: Maura
 lastName: Keating
 email: maura.keating@ppsd.org
 department: Other
-is_leader: false
+isLeader: false
 location: Library
 ---

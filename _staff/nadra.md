@@ -4,5 +4,5 @@ firstName: Andrea
 lastName: Nadra
 email: andrea.nadra@ppsd.org
 department: Other
-is_leader: false
+isLeader: false
 ---

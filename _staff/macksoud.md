@@ -4,5 +4,5 @@ firstName: Brad
 lastName: Macksoud
 email: bradford.macksoud@ppsd.org
 department: History
-is_leader: false
+isLeader: false
 ---

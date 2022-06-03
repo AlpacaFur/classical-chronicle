@@ -4,5 +4,5 @@ firstName: Edward
 lastName: de Boo
 email: edward.deboo@ppsd.org
 department: Language
-is_leader: false
+isLeader: false
 ---

@@ -4,5 +4,5 @@ firstName: Randall
 lastName: Dugan
 email: randall.dugan@ppsd.org
 department: Math
-is_leader: false
+isLeader: false
 ---

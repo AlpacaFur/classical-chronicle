@@ -4,5 +4,5 @@ firstName: Angel
 lastName: Silverio
 email: angel.silverio@ppsd.org
 department: Math
-is_leader: false
+isLeader: false
 ---

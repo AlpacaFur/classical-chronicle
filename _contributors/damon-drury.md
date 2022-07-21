@@ -1,7 +1,7 @@
 ---
 layout: contributor
 contributorName: Damon Drury
-position: Writer
+position: Writer and Editor
 pronouns: They/Them
 classof: 2023
 email: damond2023@gmail.com

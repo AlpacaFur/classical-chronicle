@@ -3,11 +3,10 @@ layout: contributor
 contributorName: Owen Kilcline
 position: Writer
 pronouns: He/Him
-lastmod: 2020-12-09
+lastmod: 2022-07-21
 classof: 2022
 joined: December 2020
-instagram: ___ow.en___
-email: otkc42@gmail.com
 order: 16
+past: true
 ---
-**Owen Kilcline** is a contributing writer to the *Classical Chronicle*.
+**Owen Kilcline** was a contributing writer to the *Classical Chronicle*.

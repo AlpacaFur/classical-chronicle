@@ -4,8 +4,8 @@ contributorName: Promise Adeliyi
 position: Photographer
 pronouns: She/Her
 classof: 2022
-email: adeliyi.promise@gmail.com
-lastmod: 2021-11-06
+lastmod: 2022-07-21
 order: 17
+past: true
 ---
-**Promise Adeliyi** is a contributing photographer to the *Classical Chronicle*.
+**Promise Adeliyi** was a contributing photographer to the *Classical Chronicle*.

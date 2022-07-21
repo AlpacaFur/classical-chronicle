@@ -4,8 +4,8 @@ contributorName: Felix Leitner
 position: Web Designer
 pronouns: He/Him
 classof: 2022
-email: felix@felixleitner.com
-lastmod: 2021-11-12
+lastmod: 2022-07-21
 order: 9.1
+past: true
 ---
-**Felix Leitner-Mittersinker** is a contributing web designer for the *Classical Chronicle*.
+**Felix Leitner-Mittersinker** was a contributing web designer for the *Classical Chronicle*.

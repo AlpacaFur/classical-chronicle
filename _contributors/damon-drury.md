@@ -6,7 +6,7 @@ pronouns: They/Them
 classof: 2023
 email: damond2023@gmail.com
 instagram: damonaquimby
-lastmod: 2021-05-25
-order: 7
+lastmod: 2022-07-21
+order: 2
 ---
-**Damon Drury** is a contributing writer to the *Classical Chronicle*.
+**Damon Drury** is a writer for and Co-Editor-in-Chief of the *Classical Chronicle*.

@@ -5,8 +5,6 @@ position: Writer and Editor
 pronouns: He/Him
 classof: 2021
 joined: December 2019
-email: yousefnagib713@gmail.com
-instagram: ymnagib
 lastmod: 2020-03-16
 past: true
 order: 2

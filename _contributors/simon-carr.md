@@ -9,4 +9,4 @@ lastmod: 2022-07-21
 past: true
 order: 4
 ---
-**Simon Carr** was a writer for Editor-in-Chief of the *Classical Chronicle*.
+**Simon Carr** was a writer for and Editor-in-Chief of the *Classical Chronicle*.

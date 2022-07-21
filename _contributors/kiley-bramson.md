@@ -3,11 +3,9 @@ layout: contributor
 contributorName: Kiley Bramson
 position: Writer
 pronouns: She/Her
-lastmod: 2021-01-13
+lastmod: 2022-07-21
 classof: 2022
 joined: January 2021
-instagram: kileyilana
-email: kileybramson@gmail.com
 order: 13
 ---
-**Kiley Bramson** is a contributing writer to the *Classical Chronicle*.
+**Kiley Bramson** was a contributing writer to the *Classical Chronicle*.

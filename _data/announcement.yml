@@ -1,6 +1,6 @@
 # Possible types: emergency, warning, info, success, school, impact
 enabled: false
-type: info
-icon: megaphone
-message: "Our new CHS staff directory is live! Check it out under 'Directories'"
-link: /directories
+type: "info"
+icon: "megaphone"
+message: "This is the text of the announcement"
+link: "/directories"

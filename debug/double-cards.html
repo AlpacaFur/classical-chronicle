@@ -1,0 +1,36 @@
+---
+---
+<html>
+  <head>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="big-cards.css">
+  </head>
+  <body>
+    {% for article in site.articles reversed %}
+    {% assign accent = site.data.category-colors[article.category] %}
+    <article class="big">
+      <div class="tab" style="background: {{accent}}">
+        Latest Article
+      </div>
+      <a class="intro" style="background: {{accent}}" href="{{article.url}}">
+        <img src="/assets/images/{{article.image}}" alt="">
+        <div class="about">
+          <p class="series">{{article.series}}</p>
+          {% assign titlelen = article.title | size %}
+          <p href="/article/{{article.slug}}" class="title{% if titlelen > 50 %} long{% endif %}">{{article.title}}</p>
+          <div class="separator">{% for i in (1..6) %}{% include dots.svg %}{% endfor %}</div>
+          <p class="category">{{article.category}}</p>
+          <p class="author">{{article.author  
+                                | join: ", " 
+                                | regex_replace:"([^,\ ]) ","\1&nbsp;"
+                            }}</p>
+          <p class="date">{{article.date | date: "%B&nbsp;%-d,&nbsp;%Y"}}</p>
+        </div>
+      </a>
+      <p class="preview">{{ article.content | strip_html | truncatewords: 150 }}</p>
+      <a href="/article/{{article.slug}}" class="read-more" style="color:{{accent}}">Read More ></a>
+    </article>
+    {% include article-card.html article=article %}
+    {% endfor %}
+  </body>
+</html>

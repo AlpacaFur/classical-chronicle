@@ -30,7 +30,7 @@
   				<label for="archived-banner">See Why</label>
   			</div>
   			<input type="checkbox" id="archived-banner">
-  			<p>This article doesn't have an archive reason.</p>
+  			<p>{{ page.archiveMessage | default: "This article doesn't have an archive reason."}}</p>
   		</div>
       {% endif %}
       {% assign category = page.category | downcase %}

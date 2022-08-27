@@ -18,7 +18,7 @@ adaptedFrom: A News Source
 adaptedLink: https://example.com 
 description: "A test article to show off site features"
 ---
-This is a test article to serve as a status indicator[^1]. If you see this article as a normal website visitor, something has gone wrong. Please report this to me at [luke@bigring.org](mailto:luke@bigring.org).
+This is a test article to serve as a status indicator[^1]. If you see this article as a normal website visitor, something has gone wrong. Please report this to me at [luke@bigring.org](mailto:luke@bigring.org). Some small changes.
 
 - List
 - of

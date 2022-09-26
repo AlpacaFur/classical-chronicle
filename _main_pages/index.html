@@ -19,27 +19,27 @@
     {% include header.html page="home" %}
     <div class="container">
       <main>
-        {% assign article = site.articles | where_exp: "article","article.unlisted != true" | last %}
-        {% assign accent = site.data.category-colors[article.category] %}
+        {% assign latestarticle = site.articles | where_exp: "article","article.unlisted != true" | last %}
+        {% assign accent = site.data.category-colors[latestarticle.category] %}
         <article class="big">
           <div class="tab" style="background: {{accent}}">
             Latest Article
           </div>
-          <a class="intro" style="background: {{accent}}" href="{{article.url}}">
-            <img src="/assets/images/{{article.image}}" alt="">
+          <a class="intro" style="background: {{accent}}" href="{{latestarticle.url}}">
+            <img src="/assets/images/{{latestarticle.image}}" alt="">
             <div class="about">
-              <p class="series">{{article.series}}</p>
-              {% assign titlelen = article.title | size %}
-              <p href="/article/{{article.slug}}" class="title{% if titlelen > 50 %} long{% endif %}">{{article.title}}</p>
+              <p class="series">{{latestarticle.series}}</p>
+              {% assign titlelen = latestarticle.title | size %}
+              <p href="/article/{{latestarticle.slug}}" class="title{% if titlelen > 50 %} long{% endif %}">{{latestarticle.title}}</p>
               <div class="separator">{% for i in (1..6) %}{% include dots.svg %}{% endfor %}</div>
-              <p class="category">{{article.category}}</p>
-              <p class="author">{{article.author  
+              <p class="category">{{latestarticle.category}}</p>
+              <p class="author">{{latestarticle.author  
                                     | join: ", " }}</p>
-              <p class="date">{{article.date | date: "%B %-d, %Y"}}</p>
+              <p class="date">{{latestarticle.date | date: "%B %-d, %Y"}}</p>
             </div>
           </a>
-          <p class="preview">{{ article.content | strip_html | truncatewords: 150 }}</p>
-          <a href="/article/{{article.slug}}" class="read-more" style="color:{{accent}}; --accent-color: {{accent}}">Read More ></a>
+          <p class="preview">{{ latestarticle.content | strip_html | truncatewords: 150 }}</p>
+          <a href="/article/{{latestarticle.slug}}" class="read-more" style="color:{{accent}}; --accent-color: {{accent}}">Read More ></a>
         </article>
         {% assign categories = site.articles | map: "category" | uniq %}
         {% for category in categories %}
@@ -53,6 +53,7 @@
         {% assign articles = site.articles | pop | where: "category", category | reverse %}
           <div class="article-group">
           {% for article in articles %}
+            {% if article.title == latestarticle.title %}{% continue %}{% endif %}
             {% if article.unlisted %}{% continue %}{% endif %}
             {% if count >= 4 %}{% continue %}{% endif %}
             {% include article-card.html article=article %}

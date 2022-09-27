@@ -35,7 +35,7 @@ Of course, Bessinger is not the be-all-end-all of the issue but merely a microco
 
 --- 
 
-**Bibliography
+## Bibliography
 
 1) Bessinger, R. (2021, July 19). I'm a middle school teacher and see how critical race curriculum is creating racial hostility in schoolramo. Legal Insurrection. Retrieved April 8, 2022, from https://legalinsurrection.com/2021/07/im-a-middle-school-teacher-and-see-how-critical-race-curriculum-is-creating-racial-hostility-in-school/
 

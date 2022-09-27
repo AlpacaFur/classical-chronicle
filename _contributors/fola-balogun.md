@@ -1,6 +1,6 @@
 ---
 layout: contributor
-contributorName: Fola Balogun
+contributorName: Folarin Balogun
 position: Writer and Editor
 pronouns: He/Him or They/Them
 classof: 2023

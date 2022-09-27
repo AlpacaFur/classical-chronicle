@@ -1,7 +1,7 @@
 ---
 layout: "article"
 title: "The Wannabe Pariah"
-author: ["Damon Drury"]
+author: ["Damon Drury and Folarin Balogun"]
 image: "foxnewsbes.png"
 category: "Opinion"
 unlisted: false

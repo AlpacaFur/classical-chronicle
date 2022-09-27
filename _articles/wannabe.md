@@ -2,12 +2,12 @@
 layout: "article"
 title: "The Wannabe Pariah"
 author: ["Damon Drury"]
+image: "foxnewsbes.png"
 category: "Opinion"
-unlisted: true
+unlisted: false
 date: 2022-09-27
----
 
-![Bessinger Fox News Image](/assets/images/foxnewsbes.png)
+---
 
 If you have an IEP or 504, then you are probably accustomed to Classical’s resource room. Previously located in the library, it now temporarily resides in the basement, next to the gender neutral bathroom. Inside, Ms. Kay and Ms. Montgomery provide accommodations for students with learning plans. However, in 2021, a new teacher joined the resource room. In the corner, one could previously find Ms. Ramona Bessinger who now teaches various English classes in the former choir room. Bessinger used to work at Esek Hopkins Middle School until she was transferred to Classical in October of 2021. A quick google search or a scroll through her timeline gives some important context to the reason for her transfer.
 

@@ -21,7 +21,7 @@ Bessinger is also vocal on social media about her opinions regarding the discuss
 
 Students have spoken out against Bessinger's presence in the building on account of her being outspoken about her views regarding race and “gender theory”. It calls into question Classical’s commitment to racial justice and and the safety of queer students and students of color. “There’s no place for public speech like that In a [school] that’s trying to build and… strengthen support for the LGBTQ+ community.” responds Maddy, a then Junior
 
-*“If I found Ms. Gee’s room a safe environment before, I don’t know.”
+*“If I found Ms. Gee’s room a safe environment before, I don’t know.”*
 
 Another Senior explains how Bessinger’s online presence made them “very uncomfortable,- the resource room where she stays all day is kind of a safe place for me, it’s the only place where I’m actually allowed to be autistic and be myself, and it stopped being that when I realized there was a person there who was not safe to be around.”
 

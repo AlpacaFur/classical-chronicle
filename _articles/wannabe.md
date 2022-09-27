@@ -30,21 +30,21 @@ Of course, Bessinger isn’t the main be-all-end-all of the issue but merely a m
 ---
 ## Bibliography 
 
-[^1] Bessinger, R. (2021, July 19). I'm a middle school teacher and see how critical race curriculum is creating racial hostility in schoolramo. Le·gal In·sur·rec·tion |. Retrieved April 8, 2022, from https://legalinsurrection.com/2021/07/im-a-middle-school-teacher-and-see-how-critical-race-curriculum-is-creating-racial-hostility-in-school/ 
+1) Bessinger, R. (2021, July 19). I'm a middle school teacher and see how critical race curriculum is creating racial hostility in schoolramo. Le·gal In·sur·rec·tion |. Retrieved April 8, 2022, from https://legalinsurrection.com/2021/07/im-a-middle-school-teacher-and-see-how-critical-race-curriculum-is-creating-racial-hostility-in-school/ 
 \
-[^2] Berry, D. S. (2021, July 14). Middle School teacher: 'radicalized curriculum' is 'creating racial hostility'. Breitbart. Retrieved April 8, 2022, from https://www.breitbart.com/politics/2021/07/14/middle-school-teacher-radicalized-curriculum-is-creating-racial-hostility/ 
+2) Berry, D. S. (2021, July 14). Middle School teacher: 'radicalized curriculum' is 'creating racial hostility'. Breitbart. Retrieved April 8, 2022, from https://www.breitbart.com/politics/2021/07/14/middle-school-teacher-radicalized-curriculum-is-creating-racial-hostility/ 
  
-[^3] Betz, B., & Murray, A. (2021, July 16). Rhode Island teacher goes public with critical race theory curriculum: 'I'm refusing to propagate lies'. Fox News. Retrieved April 8, 2022, from https://www.foxnews.com/us/rhode-island-teacher-critical-race-theory-curriculum-refusing-propagate-lies 
+3) Betz, B., & Murray, A. (2021, July 16). Rhode Island teacher goes public with critical race theory curriculum: 'I'm refusing to propagate lies'. Fox News. Retrieved April 8, 2022, from https://www.foxnews.com/us/rhode-island-teacher-critical-race-theory-curriculum-refusing-propagate-lies 
  
-[^4] Freeman, J. (2021, July 14). Opinion: the lessons lost when critical race theory arrives in class. The Wall Street Journal. Retrieved April 8, 2022, from https://www.wsj.com/articles/the-lessons-lost-when-critical-race-theory-arrives-in-class-11626294690 
+4) Freeman, J. (2021, July 14). Opinion: the lessons lost when critical race theory arrives in class. The Wall Street Journal. Retrieved April 8, 2022, from https://www.wsj.com/articles/the-lessons-lost-when-critical-race-theory-arrives-in-class-11626294690 
  
-[^5] Bessinger, R. (n.d.). Twitter. Retrieved April 8, 2022, from https://twitter.com/RamonaBessinger 
+5) Bessinger, R. (n.d.). Twitter. Retrieved April 8, 2022, from https://twitter.com/RamonaBessinger 
 
-[^6] George, J. (2021, January 11). A Lesson on Critical Race Theory . Americanbar.org. Retrieved April 8, 2022, from https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/civil-rights-reimagining-policing/a-lesson-on-critical-race-theory/ 
+6) George, J. (2021, January 11). A Lesson on Critical Race Theory . Americanbar.org. Retrieved April 8, 2022, from https://www.americanbar.org/groups/crsj/publications/human_rights_magazine_home/civil-rights-reimagining-policing/a-lesson-on-critical-race-theory/ 
 
-[^7] Providence Public Schools. (n.d.). Equity & Belonging / Culturally Responsive Teaching. Retrieved April 8, 2022, from https://www.providenceschools.org/Page/4743 
+7) Providence Public Schools. (n.d.). Equity & Belonging / Culturally Responsive Teaching. Retrieved April 8, 2022, from https://www.providenceschools.org/Page/4743 
  
-[^8]: https://www.youtube.com/watch?v=8E4IP47M8Mo
+8) https://www.youtube.com/watch?v=8E4IP47M8Mo
 
-[^9] Davies, Dave. (2022, May 12)“Has Tucker Carlson Created the Most Racist Show in the History of Cable News?” NPR.org, from, www.npr.org/2022/05/12/1098488908/has-tucker-carlson-created-the-most-racist-show-in-the-history-of-cable-news.
+9) Davies, Dave. (2022, May 12)“Has Tucker Carlson Created the Most Racist Show in the History of Cable News?” NPR.org, from, www.npr.org/2022/05/12/1098488908/has-tucker-carlson-created-the-most-racist-show-in-the-history-of-cable-news.
 

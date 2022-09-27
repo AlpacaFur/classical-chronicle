@@ -4,7 +4,7 @@ title: "The Wannabe Pariah"
 author: ["Damon Drury"]
 category: "Opinion"
 unlisted: true 
-date: 2022-09-26
+date: 2022-09-27
 ---
 
 ![Bessinger Fox News Image](/assets/images/foxnewsbes.png)

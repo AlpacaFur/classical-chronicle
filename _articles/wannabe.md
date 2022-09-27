@@ -3,7 +3,7 @@ layout: "article"
 title: "The Wannabe Pariah"
 author: ["Damon Drury"]
 category: "Opinion"
-unlisted: true 
+unlisted: false 
 date: 2022-09-27
 ---
 

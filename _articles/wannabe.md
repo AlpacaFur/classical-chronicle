@@ -31,7 +31,7 @@ Of course, Bessinger isn’t the main be-all-end-all of the issue but merely a m
 ## Bibliography 
 
 1) Bessinger, R. (2021, July 19). I'm a middle school teacher and see how critical race curriculum is creating racial hostility in schoolramo. Le·gal In·sur·rec·tion |. Retrieved April 8, 2022, from https://legalinsurrection.com/2021/07/im-a-middle-school-teacher-and-see-how-critical-race-curriculum-is-creating-racial-hostility-in-school/ 
-\
+
 2) Berry, D. S. (2021, July 14). Middle School teacher: 'radicalized curriculum' is 'creating racial hostility'. Breitbart. Retrieved April 8, 2022, from https://www.breitbart.com/politics/2021/07/14/middle-school-teacher-radicalized-curriculum-is-creating-racial-hostility/ 
  
 3) Betz, B., & Murray, A. (2021, July 16). Rhode Island teacher goes public with critical race theory curriculum: 'I'm refusing to propagate lies'. Fox News. Retrieved April 8, 2022, from https://www.foxnews.com/us/rhode-island-teacher-critical-race-theory-curriculum-refusing-propagate-lies 

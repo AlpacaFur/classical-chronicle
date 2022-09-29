@@ -1,7 +1,7 @@
 ---
 layout: "article"
 title: "The Wannabe Pariah"
-author: ["Damon Drury and Folarin Balogun"]
+author: ["Damon Drury"]
 image: "foxnewsbes.png"
 category: "Opinion"
 unlisted: false
@@ -29,8 +29,8 @@ Students are especially concerned because the resource room is a space used by a
 
 An important idea to discuss when it comes to the issue of students having to share a building with teachers that hold beliefs antithetical to their own well-being, right to happiness, and self-expression, is responsibility. Specifically, the responsibility that teachers have to the students they teach. It is to be expected that not every teacher will have an open mind on all issues but it is important to remember that they are responsible for their behavior and the ideas they hold as mentors of the vulnerable, young teens who have been placed in their care. There are many wonderful teachers who make the effort to empathize with their students’ views and identities and recognize their obligation to their students to approach them with compassion. Bessinger, as an educator, has left much to be desired in living up to this responsibility.
 
-A quick scroll through Bessinger’s twitter feed leaves one with the impression that she views herself and her fellow conservatives as underdogs. Freedom fighters reminiscent of the biblical David taking on the Goliath of the leftist-inflitrated public school system which has the goal of indoctrinating kids into a queer lifestyle. Without such a reframing of the conflict, one finds themself with little ground to stand on when confronted with the fact that perhaps the reason for the uptick in kids identifying as queer is the changing social climate that we have found ourselves in. Not a globalist conspiracy to turn little Sam or Sally into a radical commmunsit homosexuals. Conservative reactionary ideas and their peddlers are on the rise perhaps because bereft of any actual legislative opponent, conservative thought has had to turn to culture war issues to maintain its relevance in the mainstream. When one's politics are based around having an ever-present boogieman to oppose, eventually, said boogieman has to be invented to be the target of outrage.
-
+A quick scroll through Bessinger’s twitter feed leaves one with the impression that she views herself and her fellow conservatives as underdogs. Freedom fighters reminiscent of the biblical David taking on the Goliath of the leftist-inflitrated public school system which has the goal of indoctrinating kids into a queer lifestyle. Without such a reframing of the conflict, one finds themself with little ground to stand on when confronted with the fact that perhaps the reason for the uptick in kids identifying as queer is the changing social climate that we have found ourselves in. Not a globalist conspiracy to turn little Sam or Sally into a radical commmunsit homosexuals. Conservative reactionary ideas and their peddlers are on the rise perhaps because bereft of any actual legislative opponent, conservative thought has had to turn to culture war issues to maintain its relevance in the mainstream. When one's politics are based around having an ever-present boogieman to oppose, eventually, said boogieman has to be invented to be the target of outrage. There will always be some vague threat to organize against. A dangerous threat to the nation to rally around to fund super PACs and campaigns.
+ 
 Of course, Bessinger is not the be-all-end-all of the issue but merely a microcosm. The issue at large is that schools and school departments at large hold a responsibility to vet who they are hiring to watch over the children that have been placed in their care. Though many claim to be accepting of their minority and queer students, hiring those who esposue views that are harmful to those students is antithetical to what they claim to promote: equity and acceptance of all.
 
 --- 

@@ -3,7 +3,7 @@ layout: "article"
 title: "Album of the Week #1: Ramona Park Broke My Heart"
 author: ["Folarin Balogun"]
 image: "ramonapark.jpeg"
-category: "culture"
+category: "Culture"
 unlisted: false
 date: 2022-10-03
  

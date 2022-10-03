@@ -21,7 +21,7 @@ Though composed of many exceptional songs, the undisputed masterpiece is 'When S
 
 Chirinos further elaborates on the themes of the album. "The hood is such a toxic relationship because its home. Its comforting but also \[debilitating] to involve yourself in that culture. The excerpt of the interlude, The Beach is, "we can't take everybody with us," he wants to leave it behind, but part of him also wants to be proud of where he's from."
 
-*"...it's presented in this trap music and mainstream sound but this shit is SAD." 
+*"...it's presented in this trap music and mainstream sound but this shit is SAD." *
 
 Accompanying Chrinos' poignant analysis, is the contrast between the sound and the lyrics. Many songs on the album, independent of any lyrical meaning, almost sound as though they could be found on your run-of-the-mill trap album. But a deeper analysis reveals the subtle irony that Staples weaves into his work. Drawing in the listener with a sound they're used to, then deconstructing that idea over the course of the song, and more comprehensively, the album.
 

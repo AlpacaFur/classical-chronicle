@@ -1,12 +1,12 @@
---
+---
 layout: "article"
 title: "Album of the Week #1: Ramona Park Broke My Heart"
 author: ["Folarin Balogun"]
 image: "ramonapark.jpeg"
-category: "Culture"
+category: "culture"
 unlisted: true
 date: 2022-10-03
-
+ 
 ---
 
 This is the first installment in a new series of the culture section of the Classical Chronicle called "Album of the Week." Created as a way to introduce readers to new music and expand tastes, it will hopefully feature songs from a vast array of genres and artists. 

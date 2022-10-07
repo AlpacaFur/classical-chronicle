@@ -41,7 +41,7 @@
           <p class="preview">{{ latestarticle.content | strip_html | truncatewords: 150 }}</p>
           <a href="/article/{{latestarticle.slug}}" class="read-more" style="color:{{accent}}; --accent-color: {{accent}}">Read More ></a>
         </article>
-        {% assign categories = site.articles | map: "category" | uniq %}
+        {% assign categories = site.articles | pop | reverse | map: "category" | uniq %}
         {% for category in categories %}
         {% assign accent = site.data.category-colors[category] %}
         <div class="category-divider">

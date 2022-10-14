@@ -17,7 +17,7 @@ This week's album comes from senior, Joseph Chirinos. It is 'Ramona Park Broke M
 
 Aside from the witty lyrics laden with symbolism, Staples' voice take on a fatigued cadence, seemingly drained from even recounting his memories. 
 
-Though composed of many exceptional songs, the undisputed masterpiece is 'When Sparks Fly,' a song so catchy many listeners don't listen to the lyrics. But they should. Because its not just about the siren's call nature of the complex bond that hood culture has with its particpants: appealing yet ultimately dooming, its also a personal statement about the artist himself.
+Though composed of many exceptional songs, the undisputed masterpiece is 'When Sparks Fly,' a song so catchy many listeners don't pay attention to the lyrics. But they should. Because its not just about the siren's call nature of the complex bond that hood culture has with its particpants: appealing yet ultimately dooming, its also a personal statement about the artist himself.
 
 Chirinos further elaborates on the themes of the album. "The hood is such a toxic relationship because its home. Its comforting but also \[debilitating] to involve yourself in that culture. The excerpt of the interlude, The Beach is, "we can't take everybody with us," he wants to leave it behind, but part of him also wants to be proud of where he's from."
 

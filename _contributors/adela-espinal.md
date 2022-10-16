@@ -8,4 +8,4 @@ email: AdelaEspnl@gmail.com
 lastmod: 2022-10-15
 order: 1
 ---
-**Adela Espinal** is a writer for *Classical Chronicle*.
+**Adela Espinal** is a writer for the *Classical Chronicle*.

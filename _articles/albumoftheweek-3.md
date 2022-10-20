@@ -4,7 +4,7 @@ title: "Album of the Week #3: Banish the Banshee"
 author: ["Mirabelle Meek"]
 image: "banhee.png"
 category: "Culture"
-unlisted: true
+unlisted: false
 date: 2022-10-19
  
 ---
@@ -19,5 +19,5 @@ While “Sunburn,” “Fool’s Paradise,” and “Tainted Love” are all abo
 
 “Money On That,” “Gummy,” and “This Is An Intermission” are the outliers in this album, but no less exceptional. “Money On That” covers the ups and downs of new love: the rush of confidence that occurs when you realize someone likes you back, and the anxiety that they’ll change their mind. *“It’s not easy being this pretty, it’s so hard to be a charm every day,”* shows the affirmation that comes with being liked. *“It’s so hard to be a lover, ‘cause I think about myself, and how I’d like to be your baby, but that wouldn’t be fair to you,”* shows the fear that you aren’t enough for someone, that they deserve better. (Hint: You’d be wrong) “Gummy” is a satirical look at an old Greek god: Aphrodite and her Roman counterpart, Venus. This song doesn’t precisely have a discernible meaning, but it’s enjoyable regardless. Dunbar sings about having spent a night with the goddess of love herself, *“A romance … we slow dance, she confessed, ‘Isaac, I thought you were gay,’ no, not today.”* “This Is An Intermission” is simply a good time. It’s simple but effective– hinting at more music to come by its placement at the end of the album. Like a visitor leaving but promising to see you agian, sooner rather than later
 
-Banish The Banshee can provide songs to lift you up, help you when you’re down, and depicts the feeling of a toxic yet intoxicating love that many can relate to. While not not a new theme by any means, the album presents its own style and take on an old subject.
+Banish The Banshee can provide songs to lift you up, help you when you’re down, and depicts the feeling of a toxic yet intoxicating love that many can relate to. While not a new theme by any means, the album presents its own style and take on an old subject.
 

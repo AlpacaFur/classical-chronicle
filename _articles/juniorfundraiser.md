@@ -11,7 +11,8 @@ date: 2022-10-27
 
 ![Picture](/assets/images/hairdye.jpg)
 
-	 
+
+
 	Are you interested in raising money for an amazing prom? Would you like your teachers to show some extra purple pride? Then donate to the junior class fundraiser! The junior fundraiser’s goal is very important, but interestingly this comes with an incentive; if we raise $1000 dollars towards their goal, some of our favorite teachers will color their hair. This fundraiser is being led by the junior class government, namely, Christopher Seminara, Leila Hopkins (president), Angel Cepeda, Torin Kelly, Dayana Reed, Chloe Feit, and Benjamin Bong; we can thank them for making our classes more interesting, as well as making the 2024 prom a dream. But of course, we all have a few more questions on what made this all possible, and how exactly this all transpired. 
 	What exactly inspired this idea to have teachers dye their hair? Seminara discussed how the idea was inspired by his highschool experiences. When he was in highschool “way back in the day” he remembers teachers dying their hair pink for a breast cancer charity fundraiser; he recalls enjoying the concept of faculty doing something of that nature that you might not see them do usually. Also the coloring of the hair is almost an incentive for students, faculty, and family alike to donate to the cause. 
 	What are the goals of this fundraiser and why should we donate our money? The goal of the fundraiser is to raise money for the 2024 prom. The junior government has big ideas for the upcoming prom,  “...waterview, we want to have food trucks” as well as a few other goals. Obviously these inclusions would need a lot of funding, so they are starting the donation process early. “..the more money that we raise prior, the more we can get it to be exactly as we want it to be.”. If (and when) they can succeed in making this wonderful dance a reality, all of this will become worth it. 

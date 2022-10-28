@@ -2,14 +2,14 @@
 layout: "article"
 title: "Teacher's To Dye Hair for Junior Fundraiser"
 author: ["Catherine Jankowich"]
-image: "banhee.png"
+image: "hairdye.jpg"
 category: "Culture"
 unlisted: false
 date: 2022-10-27
  
 ---
 
-![Album Image](/assets/images/banhee.png)
+![Picture](/assets/images/hairdye.jpg)
 
 	  
 	Are you interested in raising money for an amazing prom? Would you like your teachers to show some extra purple pride? Then donate to the junior class fundraiser! The junior fundraiser’s goal is very important, but interestingly this comes with an incentive; if we raise $1000 dollars towards their goal, some of our favorite teachers will color their hair. This fundraiser is being led by the junior class government, namely, Christopher Seminara, Leila Hopkins (president), Angel Cepeda, Torin Kelly, Dayana Reed, Chloe Feit, and Benjamin Bong; we can thank them for making our classes more interesting, as well as making the 2024 prom a dream. But of course, we all have a few more questions on what made this all possible, and how exactly this all transpired. 

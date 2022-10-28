@@ -4,7 +4,7 @@ title: "Teacher's To Dye Hair for Junior Fundraiser"
 author: ["Catherine Jankowich"]
 image: "hairdye.jpg"
 category: "Culture"
-unlisted: false
+unlisted: true
 date: 2022-10-27
  
 ---

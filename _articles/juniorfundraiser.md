@@ -1,6 +1,6 @@
 ---
 layout: "article"
-title: "Teacher's To Dye Hair for Junior Fundraiser"
+title: "Teachers To Dye Hair for Junior Fundraiser"
 author: ["Catherine Jankowich"]
 image: "purphair.jpg"
 category: "Culture"

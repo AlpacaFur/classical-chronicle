@@ -4,14 +4,14 @@ title: "Album of the Week #4: Hôtel de Ville"
 author: ["Eitan Pessin"]
 image: "hotell.jpg"
 category: "Culture"
-unlisted: true
+unlisted: false
 date: 2022-10-29
  
 ---
 
 ![Album Image](/assets/images/hotell.jpg) 
 
-This week's album of the week is Hôtel de Ville, by Scott Helman. A Canadian singer songwriter, Hôtel de Ville was Helman’s debut album. No song sounds the same as another on this indie pop album. Shuffling the album results in drifting from songs with as little as a guitar strumming quietly in the background and poignant lyrics; to a complex rhythm and electronic sound. 
+This week's album of the week is 'Hôtel de Ville,' by Scott Helman. A Canadian singer songwriter, 'Hôtel de Ville' was Helman’s debut album. No song sounds the same as another on this indie pop album. Shuffling the album results in drifting from songs with as little as a guitar strumming quietly in the background and poignant lyrics; to a complex rhythm and electronic sound. 
 
 The first track on the album, suitably named “Intro” is stripped down and raw – Helman speaks over the music giving a preview of the themes of the album, talking about God, love, and self reflection. The next song, “Kites” takes a very different approach, opening with drums and weird lyrics; it discusses “governmental cheese” and “space camps.” It also sneaks in references to stress, anxiety and self-blame – at least until the singer cuts himself off and sings about “flying high like kites,” likely a reference to drugs, a common way of handling the emotions discussed.
 
@@ -23,5 +23,5 @@ The next song on the track is a fan favorite, called “Ripple Effect.” It’s
 
 The final tracks of the album form a mini timeline of sorts, though out of order. The song “Chinese Restaurant,” is about a meet-cute… in a Chinese restaurant. Helman sings *“I only saw you once/In a Chinese restaurant,”* indicating both the familiarity and strangeness of falling in love with a stranger. The next song in the timeline is “You Made Her.” The "You" in the title referring to the father of the girl the singer’s in love with – who disapproves of the relationship. The singer is indifferent however, and as such comes the next song: “Origami.” The metaphor isn’t hard to understand – the two of them are origami and “fold” into each other perfectly. The next song is a step further “House Key,” – they’ve now moved in together. Unfortunately, the relationship isn’t perfect, as comes the next song “PDA.” It is, expectedly, about PDA, and the singer's frustration with his partner's discomfort over it, especially as she’s about to leave for some undisclosed amount of time. He sings *“Get you in the bedroom/Then you set the world on fire/But outside of your cocoon/It’s like I’m just another guy.”* The singer is upset - and the relationship deteriorates further into the next song, “Gaslight.” It discusses flames and nighttime – but is yet another thinly veiled metaphor, as their relationship finally falls apart.
 
-Hôtel de Ville is an album that is full of a variety of musical styles making it a good match for fans of almost any of its many genres. It’s got elements of rock, folk, and acoustic; and has strong lyrics and storytelling. Especially for a debut album, Hôtel de Ville is a creative piece of euphony, and deserves the acclaim it has received.
+Hôtel de Ville is an album that is full of a variety of musical styles making it a good match for fans of almost any of its many genres. It’s got elements of rock, folk, and acoustic; and has strong lyrics and storytelling. Especially for a debut album, Hôtel de Ville is a creative piece of euphony, and is no doubt deserving of the acclaim it has received.
 

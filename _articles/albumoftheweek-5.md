@@ -19,7 +19,7 @@ As Elliott Smith was a philosophy major in college, Either/Or’s title is a dir
 
 In 1996, director Gus Van Sant scouted Elliott Smith to be a part of his film Good Will Hunting’s soundtrack. Beside “Angeles” and “Say Yes” from Either/Or, he contributed “No Name #3” from Roman Candle and a new track: “Miss Misery.” When Good Will Huntingproved to be a success, Smith was nominated for an Academy Award and asked to perform “Miss Misery” live. Despite not winning the award, he still got a lot out of the experience.
 
-*“That’s exactly what it was, surreal. I enjoy performing almost as much as I enjoy making up songs in the first place. But the Oscars was a very strange show, where the set was only one song cut down to less than two minutes, and the audience was a lot of people who didn’t come to hear me play. I wouldn’t want to live in that world, but it was fun to walk around on the moon for a day.” *
+*“That’s exactly what it was, surreal. I enjoy performing almost as much as I enjoy making up songs in the first place. But the Oscars was a very strange show, where the set was only one song cut down to less than two minutes, and the audience was a lot of people who didn’t come to hear me play. I wouldn’t want to live in that world, but it was fun to walk around on the moon for a day.”*
 
 Sadly, Elliott Smith died on October 21, 2003 due to stab wounds. Though his history of depression has led many to blame suicide, his autopsy revealed other defensive wounds and that the first stab wound had been fatal. His girlfriend Jennifer Chiba claimed to be locked in their bathroom following a fight with Smith, and authorities failed to conduct a conclusive investigation disproving homicide. 
 

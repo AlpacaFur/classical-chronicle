@@ -1,7 +1,7 @@
 ---
 layout: contributor
 contributorName: Folarin Balogun
-position: Writer and Co-Chief Editor
+position: Writer and Editor
 pronouns: He/Him or They/Them
 classof: 2023
 email: balogun.t.fola@gmail.com

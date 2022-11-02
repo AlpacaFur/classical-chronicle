@@ -4,7 +4,7 @@ title: "Album of the Week #5: Either/Or"
 author: ["Sadie Jackson"]
 image: "eitherr.jpg"
 category: "Culture"
-unlisted: true
+unlisted: false
 date: 2022-11-02
  
 ---

@@ -4,7 +4,7 @@ title: "M's Album of the Week"
 author: ["M Studnet"]
 image: "ramonapark.jpeg"
 category: "Culture"
-unlisted: false
+unlisted: true
 date: 2022-10-03
 
 ---

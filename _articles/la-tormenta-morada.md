@@ -2,14 +2,14 @@
 layout: "article"
 title: "Jeremy Peña: La Tormenta Morada"
 author: ["Carolyn Myrus"]
-image: "peña-1.jpeg"
+image: "pena-1.jpg"
 category: "Sports"
 unlisted: false
 date: 2023-01-02
  
 ---
 
-![Album Image](assets/images/peña-2.jpeg)
+![Album Image](assets/images/pena-2.jpg)
 
 When Houston Astros Manager Dusty Baker first saw Jeremy Peña during spring training in March 2021, Baker wasn’t sure about the rookie. Over Baker’s thirty-five years as a player and manager in Major League Baseball, he had watched a lot of players come and go. “You don't know if guys are going to come in, tear it up, or guys are going to come in and fail until they get in that situation,” Baker said in a recent nationally televised interview.
 

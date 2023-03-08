@@ -1,11 +1,11 @@
 ---
 layout: contributor
-contributorName: M Meek
+contributorName: Miro Meek
 position: Writer 
 pronouns: he/they
 classof: 2025
-email: mirabelle@meek.org
+email: miro@meek.org
 lastmod: 2022-10-26
 order: 1
 ---
-**M Meek** is a writer for the *Classical Chronicle*.
+**Miro Meek** is a writer for the *Classical Chronicle*.

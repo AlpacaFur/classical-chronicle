@@ -1,7 +1,7 @@
 ---
 layout: "article"
 title: "Album of the Week #3: Banish the Banshee"
-author: ["M Meek"]
+author: ["Miro Meek"]
 image: "banhee.png"
 category: "Culture"
 unlisted: false

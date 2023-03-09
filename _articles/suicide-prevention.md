@@ -4,7 +4,7 @@ title: "Teen Suicide Prevention"
 author: ["Lillian Musgrave"]
 image: "prevention.jpg"
 category: "School"
-unlisted: true
+unlisted: false
 date: 2023-03-08
 
 --- 

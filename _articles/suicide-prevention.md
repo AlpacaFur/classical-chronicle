@@ -2,7 +2,7 @@
 layout: "article"
 title: "Teen Suicide Prevention"
 author: ["Lillian Musgrave"]
-image: ""
+image: "prevention.jpg"
 category: "School"
 unlisted: true
 date: 2023-03-08
@@ -23,6 +23,7 @@ date: 2023-03-08
 	Unfortunately, self destructive thoughts are common among high school students, but not many know how to respond. If you know someone who is struggling with suicidal ideations, speaking with them in private about why you are concerned is typically one of the best ways to approach the situation. Furthermore, listen to what they have to say and do not minimize their feelings. Suicidal feelings are real and not something that should be ignored. Remind them that you love and care about them, and ask directly if they have a plan. Encourage them to reach out and seek help, however if you genuinely feel that they are not safe take them seriously. Stay with them and do not hesitate to reach out to an adult or crisis line. Although it is intense and they may fight back, their safety should come first in that situation (The American Foundation for Suicide Prevention). Never hesitate to call for help.
  
 	A common issue observed is the lack of education on suicide prevention from educators. What educators need to do is educate on suicide prevention with intention. There are a multitude of programs on suicide and its realness, such as Its Real, More Than Sad, Talk Saves Lives, and more. Additionally, educators need to be more flexible and look out for warning signs presented in adolescents. We’re not asking for educators to be therapists, we’re asking for compassion. 
+	
 	Another common issue overlooked is suicide amongst LGBTQ+ teens and people of color. As stated previously, 18.8% of high school students have reported to having seriously considering suicide in the past year. This percentage was higher by 46.8% in LGBTQ+ teens. Also previously stated, 8.9% of high school students attempted suicide in the past year as well. This percentage was highest among black teens by 11.8% and 23.4% by LGBTQ+ teens. Moreover, statistics have shown that LGBTQ+ teens were more likely than non-LGBTQ+ teens to use alcohol and drugs as a means of coping with depression and anxiety, due to the immense lack of resources available. Previously expressed, 36.7% of high school students have reported feeling sadness and hopelessness in the past year, higher by 40% in Hispanic teens and by 66.3% in LGBTQ+ teens (the American Foundation for Suicide Prevention). 
  
 	Regretfully, many do not have supportive friends or family members to help, yet there are resources available. The Trevor Project is a great resource for LGBTQ teens, offering supportive, confidential crisis counselors 24/7, along with more information and resources for those struggling. The National Suicide Prevention Hotline is also a helpful resource, a national network offering over 150 crisis centers. It offers free and confidential support to everyone at all times. You can call or text at 800-273-8255, or they have a chat line. Finally, The Youth Mental Health Project is a nonprofit with a mission to educate and support communities in better understanding of adolescent mental health. The nonprofit offers a multitude of resources, information, events, and ways to get involved in the advancement of mental health advocacy and education. 

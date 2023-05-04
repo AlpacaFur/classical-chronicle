@@ -36,7 +36,7 @@ const scheduleDefaults = {
   "Monday": "regular",
   "Tuesday": "regular",
   "Wednesday": "regular",
-  "Thursday": "regular",
+  "Thursday": "advisory",
   "Friday": "regular",
   "Saturday": "no-school",
   "Sunday": "no-school",

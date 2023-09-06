@@ -36,7 +36,7 @@ const scheduleDefaults = {
   "Monday": "regular",
   "Tuesday": "regular",
   "Wednesday": "regular",
-  "Thursday": "advisory",
+  "Thursday": "regular",
   "Friday": "regular",
   "Saturday": "no-school",
   "Sunday": "no-school",
@@ -79,17 +79,17 @@ const customSchedules = {
 
 const demo = `[{"name":"Whole Day", "time":["7:40", "14:11"]}]`
 const regular = `[
-  {"name":"Advisory", "time":["7:40", "7:56"]},
-  {"name":"Period 1", "time":["8:00", "8:52"]},
-  {"name":"Period 2", "time":["8:56", "9:48"]},
-  {"name":"Period 3", "time":["9:52", "10:44"]},
-  {"name":"Period 4", "time":["10:48", "12:17"], "subPeriod": [
-    {"name": "A Lunch", "time":["10:48","11:15"]},
-    {"name": "${usingBLunch ? "B Lunch" : "Cleaning"}", "time":["11:19","11:46"]},
-    {"name": "C Lunch", "time":["11:50","12:17"]}
+  {"name":"Advisory", "time":["7:40", "7:53"]},
+  {"name":"Period 1", "time":["7:57", "8:56"]},
+  {"name":"Period 2", "time":["9:00", "9:59"]},
+  {"name":"Period 3", "time":["10:03", "11:02"]},
+  {"name":"Period 4", "time":["11:06", "12:35"], "subPeriod": [
+    {"name": "A Lunch", "time":["11:06","11:33"]},
+    {"name": "B Lunch", "time":["11:37","12:04"]},
+    {"name": "C Lunch", "time":["12:08","12:35"]}
   ]},
-  {"name":"Period 5", "time":["12:21", "13:13"]},
-  {"name":"Period 6", "time":["13:17", "14:11"]}
+  {"name":"Period 5", "time":["12:39", "13:38"]},
+  {"name":"Period 6", "time":["13:42", "14:41"]}
 ]`
 const wednesday = `[
 	{"name":"Advisory", "time":["7:40","7:56"]},

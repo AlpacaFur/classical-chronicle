@@ -29,6 +29,7 @@ const scheduleOverrides = {
   "2021-06-17": "regular",
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
+  "2023-9-14": "thursday",	
 }
 
 // The default schedule for a given day

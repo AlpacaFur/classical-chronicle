@@ -29,7 +29,7 @@ const scheduleOverrides = {
   "2021-06-17": "regular",
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
-  "2023-9-14": "thursday",	
+  "2023-09-14": "thursday",	
 }
 
 // The default schedule for a given day
@@ -498,9 +498,11 @@ function getDailySchedule() {
   let day = dotw[new Date().getDay()]
   const formattedDate = getFormattedDate()
   if (scheduleOverrides[formattedDate]) { 
+    console.log(`Using date override schedule! ${formattedDate}: ${scheduleOverrides[formattedDate]}`)
     return nameToSchedule(scheduleOverrides[formattedDate])
   }
   else {
+    console.log(`Using default ${devDay || day} schedule: ${scheduleDefaults[devDay || day]}`)
     return nameToSchedule(scheduleDefaults[devDay || day])
   }
 }

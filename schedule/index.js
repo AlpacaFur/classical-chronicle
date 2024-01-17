@@ -4,7 +4,7 @@
 
 // Whether or not the app should be disabled and show a message
 // Either true or false
-const emergencyMaintenence = true
+const emergencyMaintenence = false
 // If emergency maintenence is on, the header of the message
 const maintenenceHeader = "Temporarily Disabled!"
 // If emergency maintenence is on, the body of the message
@@ -30,7 +30,6 @@ const scheduleOverrides = {
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
   "2023-09-14": "thursday",
-  "2024-01-17": "oneHourDelay",
 
 }
 
@@ -82,17 +81,17 @@ const customSchedules = {
 
 const demo = `[{"name":"Whole Day", "time":["7:40", "14:11"]}]`
 const regular = `[
-  {"name":"Advisory", "time":["7:40", "7:53"]},
-  {"name":"Period 1", "time":["7:57", "8:56"]},
-  {"name":"Period 2", "time":["9:00", "9:59"]},
-  {"name":"Period 3", "time":["10:03", "11:02"]},
-  {"name":"Period 4", "time":["11:06", "12:35"], "subPeriod": [
-    {"name": "A Lunch", "time":["11:06","11:33"]},
-    {"name": "B Lunch", "time":["11:37","12:04"]},
-    {"name": "C Lunch", "time":["12:08","12:35"]}
+  {"name":"Advisory", "time":["08:40", "08:53"]},
+  {"name":"Period 1", "time":["08:57", "09:44"]},
+  {"name":"Period 2", "time":["09:48", "10:35"]},
+  {"name":"Period 3", "time":["10:39", "11:26"]},
+  {"name":"Period 4", "time":["11:30", "12:59"], "subPeriod": [
+    {"name": "A Lunch", "time":["11:30","11:57"]},
+    {"name": "B Lunch", "time":["12:01","12:28"]},
+    {"name": "C Lunch", "time":["12:32","12:59"]}
   ]},
-  {"name":"Period 5", "time":["12:39", "13:38"]},
-  {"name":"Period 6", "time":["13:42", "14:41"]}
+  {"name":"Period 5", "time":["13:03", "13:50"]},
+  {"name":"Period 6", "time":["13:54", "14:41"]}
 ]`
 
 

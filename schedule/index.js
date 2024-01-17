@@ -30,7 +30,7 @@ const scheduleOverrides = {
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
   "2023-09-14": "thursday",
-  "2024-01-17": "oneHourDelay",
+  "2024-01-17": "wednesday",
 }
 
 // The default schedule for a given day
@@ -94,18 +94,17 @@ const regular = `[
   {"name":"Period 6", "time":["13:42", "14:41"]}
 ]`
 const wednesday = `[
-	{"name":"Advisory", "time":["7:40","7:56"]},
-	{"name":"Period 1", "time":["8:00","8:41"]},
-	{"name":"Period 2", "time":["8:45","9:26"]},
-	{"name":"Period 3", "time":["9:30","10:11"]},
-	{"name":"Period 4", "time":["10:15","10:56"]},
-	{"name":"Period 5", "time":["11:00","12:29"], "subPeriod": [
-		{"name": "A Lunch", "time":["11:00","11:27"]},
-		{"name": "${usingBLunch ? "B Lunch" : "Cleaning"}", "time":["11:31","11:58"]},
-		{"name": "C Lunch", "time":["12:02","12:29"]}
+	{"name":"Advisory", "time":["8:40", "8:53"]},
+	{"name":"Period 1", "time":["8:57", "9:44"]},
+	{"name":"Period 2", "time":["9:48", "10:35"]},
+	{"name":"Period 3", "time":["10:39", "11:26"]},
+	{"name":"Period 4", "time":["11:30", "12:59"], "subPeriod": [
+		{"name": "A Lunch", "time":["11:30","11:57"]},
+		{"name": "B Lunch", "time":["12:01","12:28"]},
+		{"name": "C Lunch", "time":["12:32","12:59"]}
 	]},
-	{"name":"Period 6", "time":["12:33","13:14"]},
-	{"name":"Advisory", "time":["13:19","14:11"]}
+	{"name":"Period 5", "time":["13:03", "13:50"]},
+	{"name":"Period 6", "time":["13:34", "14:41"]}
 ]`
 const thursday = `[
 	{"name":"Advisory", "time":["7:40", "8:28"]},

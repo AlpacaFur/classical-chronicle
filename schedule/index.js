@@ -4,11 +4,11 @@
 
 // Whether or not the app should be disabled and show a message
 // Either true or false
-const emergencyMaintenence = false
+const emergencyMaintenence = true
 // If emergency maintenence is on, the header of the message
 const maintenenceHeader = "Temporarily Disabled!"
 // If emergency maintenence is on, the body of the message
-const maintenenceMessage = "I'm working on passing the schedule on to another person."
+const maintenenceMessage = "I'm working on changing the schedule for today."
 
 // Whether or not the app should show the following toast message when it starts
 // Should be either true or false

@@ -12,7 +12,7 @@ const maintenenceMessage = "I'm working on passing the schedule on to another pe
 
 // Whether or not the app should show the following toast message when it starts
 // Should be either true or false
-const showToastMessage = false
+const showToastMessage = true
 // The toast message to show
 const toastMessage = "This schedule may not be accurate on days the schedule is different than normal."
 
@@ -30,6 +30,8 @@ const scheduleOverrides = {
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
   "2023-09-14": "thursday",
+  "2024-01-17": "thursday",
+
 }
 
 // The default schedule for a given day

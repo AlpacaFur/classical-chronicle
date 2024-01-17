@@ -12,7 +12,7 @@ const maintenenceMessage = "I'm working on passing the schedule on to another pe
 
 // Whether or not the app should show the following toast message when it starts
 // Should be either true or false
-const showToastMessage = true
+const showToastMessage = false
 // The toast message to show
 const toastMessage = "This schedule may not be accurate on days the schedule is different than normal."
 

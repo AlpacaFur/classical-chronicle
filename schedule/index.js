@@ -4,7 +4,7 @@
 
 // Whether or not the app should be disabled and show a message
 // Either true or false
-const emergencyMaintenence = false
+const emergencyMaintenence = true
 // If emergency maintenence is on, the header of the message
 const maintenenceHeader = "Temporarily Disabled!"
 // If emergency maintenence is on, the body of the message

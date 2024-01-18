@@ -8,7 +8,7 @@ const emergencyMaintenence = false
 // If emergency maintenence is on, the header of the message
 const maintenenceHeader = "Temporarily Disabled!"
 // If emergency maintenence is on, the body of the message
-const maintenenceMessage = "I'm working on changing the schedule for today."
+const maintenenceMessage = "I'm working on passing the schedule on to another person."
 
 // Whether or not the app should show the following toast message when it starts
 // Should be either true or false
@@ -29,8 +29,7 @@ const scheduleOverrides = {
   "2021-06-17": "regular",
   "2021-09-27": "regular",
   "2021-09-28": "wednesday-demo",
-  "2023-09-14": "thursday",
-
+  "2023-09-14": "thursday",	
 }
 
 // The default schedule for a given day
@@ -81,20 +80,32 @@ const customSchedules = {
 
 const demo = `[{"name":"Whole Day", "time":["7:40", "14:11"]}]`
 const regular = `[
-  {"name":"Advisory", "time":["08:40", "08:53"]},
-  {"name":"Period 1", "time":["08:57", "09:44"]},
-  {"name":"Period 2", "time":["09:48", "10:35"]},
-  {"name":"Period 3", "time":["10:39", "11:26"]},
-  {"name":"Period 4", "time":["11:30", "12:59"], "subPeriod": [
-    {"name": "A Lunch", "time":["11:30","11:57"]},
-    {"name": "B Lunch", "time":["12:01","12:28"]},
-    {"name": "C Lunch", "time":["12:32","12:59"]}
+  {"name":"Advisory", "time":["7:40", "7:53"]},
+  {"name":"Period 1", "time":["7:57", "8:56"]},
+  {"name":"Period 2", "time":["9:00", "9:59"]},
+  {"name":"Period 3", "time":["10:03", "11:02"]},
+  {"name":"Period 4", "time":["11:06", "12:35"], "subPeriod": [
+    {"name": "A Lunch", "time":["11:06","11:33"]},
+    {"name": "B Lunch", "time":["11:37","12:04"]},
+    {"name": "C Lunch", "time":["12:08","12:35"]}
   ]},
-  {"name":"Period 5", "time":["13:03", "13:50"]},
-  {"name":"Period 6", "time":["13:54", "14:41"]}
+  {"name":"Period 5", "time":["12:39", "13:38"]},
+  {"name":"Period 6", "time":["13:42", "14:41"]}
 ]`
-
-
+const wednesday = `[
+	{"name":"Advisory", "time":["7:40","7:56"]},
+	{"name":"Period 1", "time":["8:00","8:41"]},
+	{"name":"Period 2", "time":["8:45","9:26"]},
+	{"name":"Period 3", "time":["9:30","10:11"]},
+	{"name":"Period 4", "time":["10:15","10:56"]},
+	{"name":"Period 5", "time":["11:00","12:29"], "subPeriod": [
+		{"name": "A Lunch", "time":["11:00","11:27"]},
+		{"name": "${usingBLunch ? "B Lunch" : "Cleaning"}", "time":["11:31","11:58"]},
+		{"name": "C Lunch", "time":["12:02","12:29"]}
+	]},
+	{"name":"Period 6", "time":["12:33","13:14"]},
+	{"name":"Advisory", "time":["13:19","14:11"]}
+]`
 const thursday = `[
 	{"name":"Advisory", "time":["7:40", "8:28"]},
 	{"name":"Period 1", "time":["8:32", "9:24"]},
@@ -107,21 +118,6 @@ const thursday = `[
 	]},
 	{"name":"Period 5", "time":["12:53", "13:45"]},
 	{"name":"Period 6", "time":["13:49", "14:41"]}
-]`
-
-
-const oneHourDelay = `[
-  {"name":"Advisory", "time":["8:40", "8:53"]},
-  {"name":"Period 1", "time":["8:57", "9:44"]},
-  {"name":"Period 2", "time":["9:48", "10:35"]},
-  {"name":"Period 3", "time":["10:39", "11:26"]},
-  {"name":"Period 4", "time":["11:30", "12:59"], "subPeriod": [
-    {"name": "A Lunch", "time":["11:30","11:57"]},
-    {"name": "B Lunch", "time":["12:01","12:28"]},
-    {"name": "C Lunch", "time":["12:32","12:59"]}
-  ]},
-  {"name":"Period 5", "time":["13:03", "13:50"]},
-  {"name":"Period 6", "time":["13:54", "14:41"]}
 ]`
 
 const dotw = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]

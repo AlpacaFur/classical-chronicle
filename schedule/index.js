@@ -45,14 +45,8 @@ const scheduleDefaults = {
 
 const usingBLunch = true
 
-// ==================
-// End Editable Constants
-// ==================
-
-var devOffsetHours = 0
-var devOffsetMinutes = 0
-var devDay = false
-initDevTools()
+// Need to add a custom schedule? Add it into this object below:
+// These schedules can be used in the scheduleOverrides object.
 
 const customSchedules = {
   "sat-demo-day": [
@@ -77,6 +71,15 @@ const customSchedules = {
     {"name":"Advisory", "time":["13:19","14:11"]}
   ],
 }
+
+// ==================
+// End Editable Constants
+// ==================
+
+var devOffsetHours = 0
+var devOffsetMinutes = 0
+var devDay = false
+initDevTools()
 
 const demo = `[{"name":"Whole Day", "time":["7:40", "14:11"]}]`
 const regular = `[
@@ -107,17 +110,18 @@ const wednesday = `[
 	{"name":"Advisory", "time":["13:19","14:11"]}
 ]`
 const thursday = `[
-	{"name":"Advisory", "time":["7:40", "8:28"]},
-	{"name":"Period 1", "time":["8:32", "9:24"]},
-	{"name":"Period 2", "time":["9:28", "10:20"]},
-	{"name":"Period 3", "time":["10:24", "11:16"]},
-	{"name":"Period 4", "time":["11:20", "12:49"], "subPeriod": [
-		{"name": "A Lunch", "time":["11:20","11:47"]},
-		{"name": "B Lunch", "time":["11:51","12:18"]},
-		{"name": "C Lunch", "time":["12:22","12:49"]}
+	{"name":"Advisory", "time":["7:40", "7:49"]},
+	{"name":"Period 1", "time":["7:53", "8:44"]},
+	{"name":"Period 2", "time":["8:48", "9:39"]},
+	{"name":"Advisory", "time":["9:43", "10:23"]},
+	{"name":"Period 3", "time":["10:27", "11:18"]},
+	{"name":"Period 4", "time":["11:22", "12:51"], "subPeriod": [
+		{"name": "A Lunch", "time":["11:22","11:49"]},
+		{"name": "B Lunch", "time":["11:53","12:20"]},
+		{"name": "C Lunch", "time":["12:24","12:51"]}
 	]},
-	{"name":"Period 5", "time":["12:53", "13:45"]},
-	{"name":"Period 6", "time":["13:49", "14:41"]}
+	{"name":"Period 5", "time":["12:55", "13:46"]},
+	{"name":"Period 6", "time":["13:50", "14:41"]}
 ]`
 
 const dotw = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]

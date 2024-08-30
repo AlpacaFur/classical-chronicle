@@ -83,17 +83,17 @@ initDevTools()
 
 const demo = `[{"name":"Whole Day", "time":["7:40", "14:11"]}]`
 const regular = `[
-  {"name":"Advisory", "time":["7:40", "7:53"]},
-  {"name":"Period 1", "time":["7:57", "8:56"]},
-  {"name":"Period 2", "time":["9:00", "9:59"]},
-  {"name":"Period 3", "time":["10:03", "11:02"]},
-  {"name":"Period 4", "time":["11:06", "12:35"], "subPeriod": [
-    {"name": "A Lunch", "time":["11:06","11:33"]},
-    {"name": "B Lunch", "time":["11:37","12:04"]},
-    {"name": "C Lunch", "time":["12:08","12:35"]}
+  {"name":"Advisory", "time":["7:45", "7:54"]},
+  {"name":"Period 1", "time":["7:58", "8:52"]},
+  {"name":"Period 2", "time":["8:56", "9:50"]},
+  {"name":"Period 3", "time":["9:54", "10:48"]},
+  {"name":"Period 4", "time":["10:52", "12:19"], "subPeriod": [
+    {"name": "A Lunch", "time":["10:52","11:19"]},
+    {"name": "B Lunch", "time":["11:22","11:49"]},
+    {"name": "C Lunch", "time":["11:52","12:19"]}
   ]},
-  {"name":"Period 5", "time":["12:39", "13:38"]},
-  {"name":"Period 6", "time":["13:42", "14:41"]}
+  {"name":"Period 5", "time":["12:23", "13:17"]},
+  {"name":"Period 6", "time":["13:21", "14:16"]}
 ]`
 const wednesday = `[
 	{"name":"Advisory", "time":["7:40","7:56"]},
@@ -110,18 +110,18 @@ const wednesday = `[
 	{"name":"Advisory", "time":["13:19","14:11"]}
 ]`
 const thursday = `[
-	{"name":"Advisory", "time":["7:40", "7:49"]},
-	{"name":"Period 1", "time":["7:53", "8:44"]},
-	{"name":"Period 2", "time":["8:48", "9:39"]},
-	{"name":"Advisory", "time":["9:43", "10:23"]},
-	{"name":"Period 3", "time":["10:27", "11:18"]},
-	{"name":"Period 4", "time":["11:22", "12:51"], "subPeriod": [
-		{"name": "A Lunch", "time":["11:22","11:49"]},
-		{"name": "B Lunch", "time":["11:53","12:20"]},
-		{"name": "C Lunch", "time":["12:24","12:51"]}
+	{"name":"Advisory", "time":["7:45", "7:54"]},
+	{"name":"Period 1", "time":["7:58", "8:43"]},
+	{"name":"Period 2", "time":["8:47", "9:32"]},
+	{"name":"Advisory", "time":["9:36", "10:18"]},
+	{"name":"Period 3", "time":["10:22", "11:07"]},
+	{"name":"Period 4", "time":["11:11", "12:38"], "subPeriod": [
+		{"name": "A Lunch", "time":["11:11","11:38"]},
+		{"name": "B Lunch", "time":["11:41","12:08"]},
+		{"name": "C Lunch", "time":["12:11","12:38"]}
 	]},
-	{"name":"Period 5", "time":["12:55", "13:46"]},
-	{"name":"Period 6", "time":["13:50", "14:41"]}
+	{"name":"Period 5", "time":["12:42", "13:27"]},
+	{"name":"Period 6", "time":["13:31", "14:16"]}
 ]`
 
 const dotw = ["Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"]
